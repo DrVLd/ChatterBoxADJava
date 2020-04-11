@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4b29af8a-bd94-48bb-82ad-ec743261d7a0" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/client/src/main/java/client/Client.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/server/Server.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/server/ServerThread.java" afterDir="false" />
@@ -9,9 +28,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatdatabase/src/main/java/dbconnect/DBConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/chatdatabase/src/main/java/dbconnect/DBConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/core/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/core/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/core/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/core/Chat.java" afterDir="false" />
     </list>
+<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -25,6 +49,8 @@
     <ignored path="$PROJECT_DIR$/client/build/" />
     <ignored path="$PROJECT_DIR$/client/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +61,7 @@
       <ProjectState />
     </projectState>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
@@ -137,6 +164,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -147,6 +176,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -162,9 +192,13 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
     <option name="width" value="1440" />
     <option name="height" value="827" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,10 +208,19 @@
       <pane id="Scope" />
       <pane id="ProjectPane" />
     </panes>
+=======
+  <component name="ProjectId" id="1aOwo0gw3OmBdJOayCJwOxeu6VE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -185,17 +228,10 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="core" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.Server">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -255,6 +291,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586611132329</updated>
+<<<<<<< HEAD
       <workItem from="1586611140579" duration="3006000" />
       <workItem from="1586620187861" duration="2599000" />
       <workItem from="1586625842139" duration="2121000" />
@@ -325,9 +362,28 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+=======
+      <workItem from="1586611140579" duration="2812000" />
+      <workItem from="1586620122318" duration="6484000" />
+    </task>
+    <servers />
   </component>
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -438,6 +494,17 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="WindowStateProjectService">
+    <state x="552" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586629620485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586629620484" />
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1586624489113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="165" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1586624489113" />
+>>>>>>> 4941c9f1a6e0cd6ad3d096acd065a194861a8510
   </component>
   <component name="masterDetails">
     <states>
