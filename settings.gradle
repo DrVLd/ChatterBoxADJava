@@ -1,4 +1,5 @@
 rootProject.name = 'chatterboxad'
 include 'core'
 include 'chatdatabase'
+include 'client'
 
