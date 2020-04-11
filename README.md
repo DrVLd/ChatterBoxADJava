@@ -1,2 +1,2 @@
 # ChatterBoxADJava
-Chatter box for private usage
+Chatterbox for private usage
