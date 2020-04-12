@@ -65,27 +65,8 @@ public class DBConnector {
                 e.printStackTrace();
             }
         }
-<<<<<<< HEAD
-    public static void messageText(String textMessage, User msgReceiver, User msgSender, Chat chatField, Attachment attachment){
 
-        try {
-            Connection dbconn = dbConnector();
 
-            String query = "INSERT INTO message(TextMessage, MsgReceiver,MsgSender,ChatField) VALUES(?,?,?,?)";
-            PreparedStatement ps = dbconn.prepareStatement(query);
-            ps.setString(1, textMessage);
-            ps.setInt(2,msgReceiver.getId());
-            ps.setInt(3,msgSender.getId());
-            ps.setInt(4,chatField.getChatId());
-            ps.executeQuery();
-
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-    }
-=======
 
         public static void messageText(String textMessage, User msgReceiver, User msgSender, Chat chatField, Attachment attachment){
 
@@ -106,5 +87,4 @@ public class DBConnector {
                 e.printStackTrace();
             }
         }
->>>>>>> a68b068eeef8446ce849b415ba2850beabbfdcd7
 }
