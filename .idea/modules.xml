@@ -3,6 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ChatterBoxADJava.iml" filepath="$PROJECT_DIR$/.idea/ChatterBoxADJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.iml" filepath="$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.test.iml" filepath="$PROJECT_DIR$/.idea/modules/chatdatabase/az.infosolution.chatdatabase.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.iml" filepath="$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.main.iml" filepath="$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.test.iml" filepath="$PROJECT_DIR$/.idea/modules/az.infosolution.chatterboxad.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/az.infosolution.client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/az.infosolution.core.test.iml" />
     </modules>
   </component>
 </project>
