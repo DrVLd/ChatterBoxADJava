@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="az.infosolution" externalSystemModuleVersion="1.0-SNAPSHOT" linkedProjectId=":client" linkedProjectPath="$MODULE_DIR$/../../../client" rootProjectPath="$MODULE_DIR$/../../.." />
-</module>
