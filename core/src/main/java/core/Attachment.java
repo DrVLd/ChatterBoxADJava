@@ -1,5 +1,7 @@
 package core;
 
-public class Attachment {
+import java.io.Serializable;
+
+public class Attachment implements Serializable {
 
 }

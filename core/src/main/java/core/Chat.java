@@ -1,9 +1,10 @@
 package core;
 
+import java.io.Serializable;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Chat {
+public class Chat implements Serializable {
     private int chatId;
     private List<Message> chatmsgs;
 
